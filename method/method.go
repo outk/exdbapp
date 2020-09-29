@@ -6,7 +6,7 @@ import (
 	"strings"
 	"time"
 
-	"github.com/outk/exdbapp/userdb/user_db"
+	user_db "github.com/outk/exdbapp/userdb"
 
 	"github.com/go-sql-driver/mysql"
 )
